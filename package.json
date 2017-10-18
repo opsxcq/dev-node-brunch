@@ -1,12 +1,8 @@
 {
-  "name": "MaterialIconDroid",
-  "description": "Android Material Icon Generator",
-  "author": "Philipp Eichhorn",
-  "version": "0.1.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Maddoc42/MaterialIconsGenerator"
-  },
+  "name": "Base",
+  "description": "Just some things to install",
+  "author": "OPSXCQ",
+  "version": "0.0.1",
   "license": "Apache-2.0",
   "scripts": {
     "start": "brunch watch --server -n",
